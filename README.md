@@ -21,5 +21,5 @@
 使用 **NumPy** 实现基于模型（矩阵分解算法）的协同过滤算法，在 **MovieLens** 数据集（[ml-100k](https://grouplens.org/datasets/movielens/100k/)）
 上进行测试，并计算准确率、召回率、覆盖率、流行度等指标。
 
-[代码实现](https://github.com/m-L-0/18a-RecSys-ZhangBaoqi-2015/blob/master/Model_Commend.ipynb)
+[代码实现](https://github.com/m-L-0/18a-RecSys-ZhangBaoqi-2015/blob/master/Model_Commend.ipynb)  
 [运行结果](https://github.com/m-L-0/18a-RecSys-ZhangBaoqi-2015/blob/master/OutputImg/Output_ModelCommend.png)
