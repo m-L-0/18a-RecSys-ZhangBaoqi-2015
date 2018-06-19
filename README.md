@@ -22,5 +22,4 @@
 上进行测试，并计算准确率、召回率、覆盖率、流行度等指标。
 
 [代码实现](https://github.com/m-L-0/18a-RecSys-ZhangBaoqi-2015/blob/master/Model_Commend.ipynb)
-
 [运行结果](https://github.com/m-L-0/18a-RecSys-ZhangBaoqi-2015/blob/master/OutputImg/Output_ModelCommend.png)
